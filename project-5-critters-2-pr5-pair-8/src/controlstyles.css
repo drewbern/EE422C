@@ -1,0 +1,22 @@
+.button-raised{
+    -fx-font-size: 14px;
+    -jfx-button-type: RAISED;
+    -fx-background-color: #e39467;
+    -fx-pref-width: 80;
+    -fx-max-height: 150;
+    -fx-border-radius: 10;
+    -fx-text-fill: WHITE;
+    -fx-text-alignment: center;
+}
+
+.scroll-pane .viewport {
+    -fx-background-image: url(leafy_bg.png);
+}
+
+.param-label{
+	-fx-font-size: 14;
+}
+
+.text-field{
+    -fx-background-color: #00ac9c;
+}

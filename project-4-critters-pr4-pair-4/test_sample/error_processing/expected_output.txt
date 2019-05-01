@@ -1,0 +1,6 @@
+error processing: seed 10 abcdefghij
+error processing: create Goblin 10 throwerror
+error processing: create Goblin wrongstuff
+error processing: create Goblin 10dontcountme
+error processing: step javaiscool
+error processing: show morewrongstuff

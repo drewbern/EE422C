@@ -1,0 +1,2 @@
+1000 total Goblins    12.5% straight   12.5% back   37.5% right   37.5% left
+0 total Goblins    NaN% straight   NaN% back   NaN% right   NaN% left

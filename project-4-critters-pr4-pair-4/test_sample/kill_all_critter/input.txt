@@ -1,0 +1,5 @@
+create Goblin 1000
+stats Goblin
+step 500
+stats Goblin
+quit

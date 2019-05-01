@@ -1,0 +1,7 @@
+seed 10 abcdefghij
+create Goblin 10 throwerror
+create Goblin wrongstuff
+create Goblin 10dontcountme
+step javaiscool
+show morewrongstuff
+quit
